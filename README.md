@@ -1,6 +1,6 @@
 # Introduction
 
-Psychedelic is a decentralized venture studio focused on building products in the Internet Computer ecosystem. We’re a group of builders and creators working together to build & collaborate on projects, improvement proposals, standards, and Open Internet Services on the Internet Computer. The goal is to eventually become a fully community owned and operated DAO.
+Psychedelic is a decentralized venture studio focused on building products on the Internet Computer. We’re a group of builders and creators working together to build & collaborate on projects, improvement proposals, standards, and Open Internet Services on the Internet Computer. The goal is to eventually become a fully community owned and operated (and tokenized) DAO.
 
 We want to create a collaboration-first community for:
 
