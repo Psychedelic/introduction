@@ -1,11 +1,11 @@
 # Introduction
 
-Psychedelic is a collective of developers and entrepreneurs based on the Internet Computer. We’re a group of builders, creators, and do’ers working together to build projects, improvement proposals, standards, and Open Internet Services to the Internet Computer that help grow the ecosystem and build the Web3.0, approaching it from a  DAO/community-driven direction.
+Psychedelic is a decentralized venture studio focused on building products in the Internet Computer ecosystem. We’re a group of builders and creators working together to build & collaborate on projects, improvement proposals, standards, and Open Internet Services on the Internet Computer. The goal is to eventually become a fully community owned and operated DAO.
 
 We want to create a collaboration-first community for:
 
 - Discussing and proposing improvements and standards for the Internet Computer
-- Help fund + launch projects and Open Internet Services that benefit the community
-- Provide a discussion & growth space for like-minded people and organizations
+- Help fund + launch projects and Open Internet Services that benefit the Internet Computer ecosystem
+- Provide a space for like-minded community members  and projects to coordinate, collaborate, learn, and build the IC ecosystem together
 
-Whether you are just starting out as a solo developer or have a running organization/project already, Psychedelic will be a launchpad for Internet Computer improvements, standards, proposals, projects, and Open Internet Services, aimed to build the core infrastructure or services needed by the network. Always focusing on improving the user’s experience and pushing the ecosystem’s growth with community-reached consensus.
+Whether you are just starting out as a solo developer or have a running project already, Psychedelic is open to all. Feel free to reach out and join the community.
